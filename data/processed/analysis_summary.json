@@ -1,0 +1,24 @@
+{
+  "quality_before": {
+    "rows": 1067371,
+    "duplicate_rows": 12133,
+    "missing_customer_id": 243007,
+    "missing_description": 4382,
+    "missing_invoice_date": 0,
+    "non_positive_quantity": 22950,
+    "non_positive_price": 6207
+  },
+  "rows_after_duplicates": 1055238,
+  "kpis": {
+    "valid_revenue_gbp": 20913891.47,
+    "valid_orders": 40077,
+    "identified_customers": 5878,
+    "average_order_value_gbp": 521.84,
+    "cancelled_invoices": 8292,
+    "invoice_cancellation_rate": 0.1546,
+    "valid_rows": 1029609
+  },
+  "analysis_date": "2011-12-10",
+  "order_revenue_p99_gbp": 4542.06,
+  "high_value_orders": 401
+}

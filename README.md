@@ -55,7 +55,7 @@ Hallazgos:
 ## Estructura
 
 ```text
-retailpulse/
+proyecto-online-retail/
 ├── data/
 │   ├── raw/                 # dataset
 │   └── processed/           # Resultados generados
