@@ -14,7 +14,7 @@ Identificar qué clientes, productos, mercados y periodos generan mayor valor, a
 
 - Python: pandas, matplotlib y seaborn.
 - SQL: SQLite y consultas de negocio.
-- Power BI: dashboard ejecutivo y análisis de clientes.
+- Tableau: dashboard ejecutivo y análisis de clientes.
 
 ## Resultados principales
 
@@ -62,7 +62,7 @@ proyecto-online-retail/
 ├── docs/                    # Guía y diccionario
 ├── images/                  # Gráficas exportadas
 ├── notebooks/               # Análisis reproducible
-├── powerbi/                 # Diseño y medidas del dashboard
+├── tableau/                 # Diseño y medidas del dashboard
 ├── sql/                     # Consultas de negocio
 ├── README.md
 └── requirements.txt
@@ -73,7 +73,7 @@ proyecto-online-retail/
 1. Instala dependencias con `pip install -r requirements.txt`.
 2. Ejecuta `python notebooks/01_exploracion_limpieza.py`.
 3. Revisa los archivos creados en `data/processed/` e `images/`.
-4. Abre Power BI y sigue `powerbi/GUIA_DASHBOARD.md`.
+4. Abre Tableau:https://public.tableau.com/shared/4HFWHJNDP?:display_count=n&:origin=viz_share_link.
 
 ## Limitaciones
 
